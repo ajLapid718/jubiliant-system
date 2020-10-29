@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jubiliant-system/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/jubiliant-system/static/js/main.b334d451.chunk.js",
+    "main.js.map": "/jubiliant-system/static/js/main.b334d451.chunk.js.map",
+    "runtime-main.js": "/jubiliant-system/static/js/runtime-main.ee88a965.js",
+    "runtime-main.js.map": "/jubiliant-system/static/js/runtime-main.ee88a965.js.map",
+    "static/js/2.4d12ad40.chunk.js": "/jubiliant-system/static/js/2.4d12ad40.chunk.js",
+    "static/js/2.4d12ad40.chunk.js.map": "/jubiliant-system/static/js/2.4d12ad40.chunk.js.map",
+    "static/js/3.300f097e.chunk.js": "/jubiliant-system/static/js/3.300f097e.chunk.js",
+    "static/js/3.300f097e.chunk.js.map": "/jubiliant-system/static/js/3.300f097e.chunk.js.map",
+    "index.html": "/jubiliant-system/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/jubiliant-system/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4d12ad40.chunk.js.LICENSE.txt": "/jubiliant-system/static/js/2.4d12ad40.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/jubiliant-system/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee88a965.js",
+    "static/js/2.4d12ad40.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b334d451.chunk.js"
+  ]
+}
